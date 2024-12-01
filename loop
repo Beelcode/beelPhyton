@@ -1,0 +1,3 @@
+# Loop dari 0 sampai 4 (range(5) berarti 0 hingga 4)
+for i in range(5):
+    print("Angka:", i)
